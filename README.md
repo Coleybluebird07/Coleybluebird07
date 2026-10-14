@@ -17,6 +17,8 @@ track progress and communicate with each other.
 I've built it independently and distributed it to 16 testers through
 TestFlight, using their feedback to identify bugs and improve features.
 
+[View the app showcase and screenshots](https://github.com/Coleybluebird07/fitness-app-showcase)
+
 ## Technologies I've worked with
 
 **Languages:** Swift, Go, Python, JavaScript, SQL
