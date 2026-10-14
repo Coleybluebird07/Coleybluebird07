@@ -29,14 +29,14 @@ TestFlight, using their feedback to identify bugs and improve features.
 
 ## Projects
 
-### Secure Package Registry
+### [Secure Package Registry](https://github.com/Coleybluebird07/Secure-package-registry-CU)
 A university team project focused on software supply-chain verification.
 
 I developed backend functionality using Go and PostgreSQL,
 including package rebuilding workflows, comparison reports
 and CI/CD automation.
 
-### AccessPlay
+### [AccessPlay](https://github.com/Coleybluebird07/AccessPlay-CU)
 An accessibility-focused game discovery website built with
 React, Node.js, Express and MariaDB.
 
